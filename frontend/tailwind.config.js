@@ -7,9 +7,6 @@ module.exports = {
   ],
   theme: {
     extend: {
-      fontFamily: {
-        'argent': ['Argent CF', 'serif'],
-      },
       colors: {
         primary: {
           50: '#eff6ff',
